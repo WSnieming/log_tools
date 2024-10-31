@@ -1,0 +1,237 @@
+" CPU0--max_freq, CPU6--max_freq "
+2000000
+2500000
+" DDR gear "
+NUM_VCORE_OPP : 4
+NUM_DDR_OPP : 8
+NUM_DVFSRC_OPP : 26
+[OPP0 ]: 650000   uv 4266000  khz
+[OPP1 ]: 650000   uv 4266000  khz
+[OPP2 ]: 650000   uv 4266000  khz
+[OPP3 ]: 650000   uv 3200000  khz
+[OPP4 ]: 650000   uv 3200000  khz
+[OPP5 ]: 600000   uv 3200000  khz
+[OPP6 ]: 650000   uv 2133000  khz
+[OPP7 ]: 650000   uv 2133000  khz
+[OPP8 ]: 600000   uv 2133000  khz
+[OPP9 ]: 550000   uv 2133000  khz
+[OPP10]: 650000   uv 1866000  khz
+[OPP11]: 650000   uv 1866000  khz
+[OPP12]: 600000   uv 1866000  khz
+[OPP13]: 550000   uv 1866000  khz
+[OPP14]: 650000   uv 1600000  khz
+[OPP15]: 650000   uv 1600000  khz
+[OPP16]: 600000   uv 1600000  khz
+[OPP17]: 550000   uv 1600000  khz
+[OPP18]: 650000   uv 1200000  khz
+[OPP19]: 650000   uv 1200000  khz
+[OPP20]: 600000   uv 1200000  khz
+[OPP21]: 550000   uv 1200000  khz
+[OPP22]: 650000   uv 800000   khz
+[OPP23]: 650000   uv 800000   khz
+[OPP24]: 600000   uv 800000   khz
+[OPP25]: 550000   uv 800000   khz
+" UFS Available freq "
+800000000 1200000000 1600000000 1866000000 2133000000 3200000000 4266000000
+" UFS max_freq,  UFS min_freq "
+4266000000
+800000000
+" CPU0--cur_freq CPU6--cur_freq "
+500000
+1750000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 2066000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+800000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+4266000000
+" CPU0--cur_freq CPU6--cur_freq "
+1000000
+1550000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+4266000000
+" CPU0--cur_freq CPU6--cur_freq "
+500000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 3200000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2350000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+1450000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+1050000
+1550000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+2000000
+2500000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 4238000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+500000
+1550000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 3200000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+500000
+1350000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 3200000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
+3200000000
+" CPU0--cur_freq CPU6--cur_freq "
+500000
+1350000
+" Current DDR actual frequency "
+Vcore     : 650000   uv
+DDR       : 3200000  khz
+FORCE_OPP_IDX  : 255
+CONTROL     : 659c02ab
+" UFS cur_freq  "
